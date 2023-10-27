@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="FileName.cpp" />
     <ClCompile Include="换啤酒.cpp" />
     <ClCompile Include="计算1~100的完全数.cpp" />
     <ClCompile Include="计算输入数的因子.cpp" />
